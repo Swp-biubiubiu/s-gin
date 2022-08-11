@@ -1,1 +1,5 @@
-package s_gin
+package main
+
+func main() {
+
+}
